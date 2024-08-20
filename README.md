@@ -11,6 +11,7 @@ Compartilhamento de Conhecimento: Disseminação de conhecimentos e boas prátic
 
 
 O projeto está dividido em três fases principais:
+
 1- Diagnóstico e Teorização: Mapeamento das partes interessadas e dos problemas chave.
 
 2- Planejamento e Desenvolvimento: Criação de planos e ferramentas que abordem as questões identificadas.
